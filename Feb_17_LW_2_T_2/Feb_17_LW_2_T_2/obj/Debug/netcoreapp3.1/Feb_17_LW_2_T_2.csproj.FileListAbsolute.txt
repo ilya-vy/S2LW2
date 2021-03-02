@@ -1,0 +1,13 @@
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\bin\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.exe
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\bin\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.deps.json
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\bin\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.runtimeconfig.json
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\bin\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.runtimeconfig.dev.json
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\bin\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.dll
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\bin\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.pdb
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\obj\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.AssemblyInfoInputs.cache
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\obj\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.AssemblyInfo.cs
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\obj\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.csproj.CoreCompileInputs.cache
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\obj\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.dll
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\obj\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.pdb
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\obj\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.genruntimeconfig.cache
+C:\Users\JawJag\source\repos\Feb_17_LW_2_T_2\Feb_17_LW_2_T_2\obj\Debug\netcoreapp3.1\Feb_17_LW_2_T_2.csprojAssemblyReference.cache
